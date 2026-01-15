@@ -1,0 +1,7 @@
+agno
+groq
+python-dotenv
+streamlit
+coqui-tts
+torch
+soundfile
