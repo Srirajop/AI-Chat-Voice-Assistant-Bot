@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Environment variables (API keys)
+.env
+
+# Generated files
+output/
+*.wav
+
+# Python cache
+__pycache__/
+*.pyc
